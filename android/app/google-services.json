@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241941247041",
+    "project_id": "uniswipe-bb5ea",
+    "storage_bucket": "uniswipe-bb5ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241941247041:android:ccab6d9cc226aea28802c0",
+        "android_client_info": {
+          "package_name": "com.example.uniswipe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuhOWGq_NX2JtRBFcMUGyB2Bnai_8JWWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
