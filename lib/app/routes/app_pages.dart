@@ -8,6 +8,8 @@ import 'package:uniswipe/app/screens/profile/profile_view.dart';
 
 import '../screens/login/login_binding.dart';
 import '../screens/login/login_view.dart';
+import '../screens/signup/signup_binding.dart';
+import '../screens/signup/signup_view.dart';
 
 
 part 'app_routes.dart';
@@ -32,6 +34,11 @@ class AppPages {
       name: _Paths.PROFILE,
       page: () => ProfileView(),
       binding: ProfileBinding(),
+    ),
+    GetPage(
+      name: _Paths.SIGNUP,
+      page: () => SignupView(),
+      binding: SignupBinding(),
     ),
   ];
 }

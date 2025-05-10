@@ -13,6 +13,12 @@ dependencies:
   cupertino_icons: ^1.0.8
   firebase_core: ^3.13.0
   get: ^4.7.2
+  font_awesome_flutter: ^10.8.0
+  swipe_cards: ^2.0.0+1
+  smooth_page_indicator: ^1.2.1
+  firebase_auth: ^5.5.3
+  flutter_svg: ^2.1.0
+  flutter_initicon: ^3.0.1
 
 dev_dependencies:
   flutter_test:
